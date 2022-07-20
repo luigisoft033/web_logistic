@@ -114,6 +114,8 @@ a {
     color: #f5af23; }
   .index--contenedor-text .typed-cursor {
     font-size: 6vh; }
+    .index--contenedor-text .phone-cursor {
+      font-size: 6vh; }
 
 .index--if-you-are-container {
   display: flex;
@@ -348,6 +350,8 @@ footer {
       color: #f5af23; }
     .index--contenedor-text .typed-cursor {
       font-size: 7vh; }
+      .index--contenedor-text .phone-cursor {
+        font-size: 7vh; }
 
   .if-you-are {
     display: flex;
