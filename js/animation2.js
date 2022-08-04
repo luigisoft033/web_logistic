@@ -2,6 +2,7 @@ const typed = new Typed('.typed2',{
 	strings: [ ,
 		'<i class="animacion--mas">314 7758980</i>',
 		'<i class="animacion--mas">321 6055013</i>',
+		'<i class="animacion--mas">6045912908</i>',
 		],
 stringsElement: '#cadenas-texto', // ID del elemento que contiene cadenas de texto a mostrar.
 typeSpeed: 75, // Velocidad en mlisegundos para poner una letra,

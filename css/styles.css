@@ -11,4 +11,56 @@ body {
 }
 #colorWhat:hover{
     background: #00bb2d;
+    
+}
+.card-title {
+    text-align:center;
+}
+.col{
+    margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  height: 150px;
+}
+.image1{
+
+    height: 100%;
+    margin:auto;
+    display:block;
+
+
+}
+.card-text{
+    text-align: center;
+}
+
+.card-footer a{
+    height: 100%;
+    margin:auto;
+    display:block;
+}
+.nav-link1{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.nav-link1-active{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+   
+}
+.nav-item{
+    margin-right: 10px;
+}
+.nav-link1-active:hover{
+    color:white;
+    background-color:#5470ec;
+    border-radius: 4px;
+}
+.nav-link1:hover{
+    color:white;
+    background-color:#5470ec;
+    border-radius: 4px;
 }
