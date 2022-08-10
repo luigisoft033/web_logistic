@@ -1,4 +1,5 @@
 body {
+    padding: 150px 20px 0;
     background: #667db6;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
@@ -64,6 +65,18 @@ body {
     background-color:#5470ec;
     border-radius: 4px;
 }
-.header{
-    position: fixed;
+.encabezado{
+    width: 100%;
+    top: 0;
+    left: 0px;
+   position: fixed;
+   height: 0px;
+}
+.card1 {
+    position:static;
+    background-color: #dc3545;
+}
+.card2{
+    background-color: aliceblue;
+    border-radius: 4px;
 }
